@@ -1,4 +1,4 @@
-框架： Taro 、 React 18 、taro-UI、Typescript
+框架： Taro 、 React 18 、taro-UI、Typescript、redux
 
 
 建议hooks方案
